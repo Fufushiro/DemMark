@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DamMark</string>
+    <string name="select_file">Seleccionar archivo</string>
+    <string name="watermark_text">Texto de marca de agua</string>
+    <string name="font_size">Tamaño de fuente</string>
+    <string name="opacity">Opacidad</string>
+    <string name="color">Color</string>
+    <string name="position">Posición</string>
+    <string name="preview">Vista previa</string>
+    <string name="save">Guardar</string>
+    <string name="position_center">Centro</string>
+    <string name="position_diagonal">Diagonal</string>
+    <string name="position_top_left">Esquina superior izquierda</string>
+    <string name="position_bottom_right">Esquina inferior derecha</string>
+    <string name="saving">Guardando…</string>
+    <string name="saved">Archivo guardado exitosamente</string>
+    <string name="error">Error</string>
+    <string name="select_image_or_pdf">Selecciona una imagen (JPG/PNG) o un PDF</string>
+    <string name="file_saved_to">Archivo guardado en: %1$s</string>
+</resources>
