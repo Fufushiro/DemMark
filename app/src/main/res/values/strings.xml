@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemMark</string>
+    <string name="select_image">Select Image</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="watermark_text">Watermark Text</string>
+    <string name="apply_watermark">Apply Watermark</string>
+    <string name="watermark_hint">Enter watermark text</string>
+    <string name="image_watermarked">Image Watermarked</string>
+    <string name="pdf_watermarked">PDF Watermarked</string>
+    <string name="processing">Processing...</string>
+    <string name="error">Error</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="save_watermarked">Save Watermarked File</string>
+    <string name="file_saved">File saved</string>
+</resources>
