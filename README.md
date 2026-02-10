@@ -55,3 +55,4 @@ app/src/main/java/ia/ankherth/demmark/
 - Texto de marca de agua (1-100 caracteres)
 - Bitmaps con dimensiones válidas
 - Manejo de excepciones en todas las operaciones
+# DemMark
